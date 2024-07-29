@@ -51,7 +51,7 @@
             </div>
             <div class="col-xs-12 col-md-6 col-xxl-3">
                 <div class="BohubrihiBenefits_benefit__card__6oK7R">
-                    <div class="BohubrihiBenefits_icon__box__osb5L"><img alt="benefit icon" src="{{ asset('frontend/') }}assets/images/benefit-icon-5.2c0206b4.svg" width="112" height="120" decoding="async" data-nimg="1" loading="lazy" style="color:transparent"></div>
+                    <div class="BohubrihiBenefits_icon__box__osb5L"><img alt="benefit icon" src="{{ asset('frontend/') }}/assets/images/benefit-icon-5.2c0206b4.svg" width="112" height="120" decoding="async" data-nimg="1" loading="lazy" style="color:transparent"></div>
                     <div class="BohubrihiBenefits_benefit__body__t9_i0">
                         <h3 class="typography typography--h3 typography--primary">জব ও ইন্টার্নশিপের
                             সম্ভাবনা</h3>
